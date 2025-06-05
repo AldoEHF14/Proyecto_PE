@@ -1,6 +1,6 @@
 # UEA: Programacion Estructurada
 
-## 🛒 Proyecto Final: Sistema de Gestión de Productos en una Tienda
+## 🛒 Sistema de Gestión de Productos en una Tienda
 
 Este proyecto implementa un sistema de gestión de inventario para una tienda, desarrollado en **lenguaje C**. Permite registrar productos, gestionarlos, realizar cálculos de inversión/ganancia y mantener una base de datos persistente utilizando archivos binarios.
 
