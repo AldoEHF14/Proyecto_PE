@@ -6,11 +6,11 @@ Este proyecto implementa un sistema de gestión de inventario para una tienda, d
 
 ---
 
-### 📦 Estructura del Sistema
+### 📁 Estructura del Sistema
 
 El programa gestiona productos mediante tres estructuras principales:
 
-### 🧱 Estructuras de datos
+### 🧑‍💻 Estructura del código
 
 ```c
 typedef struct {
@@ -35,7 +35,7 @@ typedef struct {
 } BD;
 ```
 
-### ⚙️ Funcionalidades
+### 🛠️ Funcionalidades
 
 El menú del programa permite:
 - Agregar Producto
@@ -60,17 +60,17 @@ El menú del programa permite:
 - Ordena según cantidad disponible.
 - Salir del programa
 
-### 🧠 Aprendizajes clave
+### 📋 Aprendizajes clave
 - Manejo de memoria dinámica con malloc, realloc y free.
 - Uso de archivos binarios con fread, fwrite.
 - Implementación de estructuras anidadas (struct dentro de struct).
 - Uso del algoritmo qsort() con funciones personalizadas de comparación.
 - Diseño de menús interactivos en consola.
 
-### 🔒 Archivos generados
+### 🔄 Archivos generados
 - BD_producto.dat: archivo binario que guarda la base de datos de productos entre ejecuciones.
 
-### 📌 Notas importantes
+### 📌  Notas importantes
 - Las operaciones de búsqueda y eliminación requieren que el producto exista y se identifique por su código o nombre.
 - Se recomienda evitar códigos duplicados para mantener la integridad de la base de datos.
 <!--El sistema no incluye validación avanzada de entrada; está pensado para fines educativos.-->
