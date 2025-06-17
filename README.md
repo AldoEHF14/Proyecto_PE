@@ -86,13 +86,13 @@ El menú del programa permite:
 💻 Compilación (Linux/Mac)
 
 ```bash
-gcc Proyecto_Final.c -o tienda
-./tienda
+gcc Proyecto_Final.c -o proyecto
+./proyecto
 ```
 🪟 Compilación (Windows, usando cmd)
 ```bash
-gcc Proyecto_Final.c -o tienda.exe
-tienda.exe
+gcc Proyecto_Final.c -o proyecto.exe
+proyecto.exe
 ```
 
 
