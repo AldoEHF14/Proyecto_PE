@@ -72,7 +72,7 @@ El menú del programa permite:
 
 ### 🔄 Archivos generados
 - BD_producto.dat: archivo binario que guarda la base de datos de productos entre ejecuciones.
-- 
+
 ---
 
 ### ▶️ Ejecución
