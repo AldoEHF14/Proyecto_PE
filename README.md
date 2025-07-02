@@ -72,14 +72,7 @@ El menú del programa permite:
 
 ### 🔄 Archivos generados
 - BD_producto.dat: archivo binario que guarda la base de datos de productos entre ejecuciones.
-
----
-
-### 📌  Notas importantes
-- Las operaciones de búsqueda y eliminación requieren que el producto exista y se identifique por su código o nombre.
-- Se recomienda evitar códigos duplicados para mantener la integridad de la base de datos.
-<!--El sistema no incluye validación avanzada de entrada; está pensado para fines educativos.-->
-
+- 
 ---
 
 ### ▶️ Ejecución
