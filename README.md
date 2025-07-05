@@ -66,7 +66,7 @@ El menú del programa permite:
 - Uso de archivos binarios con fread, fwrite.
 - Implementación de estructuras anidadas (struct dentro de struct).
 - Uso del algoritmo qsort() con funciones personalizadas de comparación.
-- Diseño de menús interactivos en consola.
+- Menú interactivo en consola.
 
 ---
 
